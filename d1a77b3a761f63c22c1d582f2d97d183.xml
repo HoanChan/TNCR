@@ -1,0 +1,26 @@
+<annotation>
+	<folder>оставшиеся</folder>
+	<filename>d1a77b3a761f63c22c1d582f2d97d183.jpg</filename>
+	<path>\\192.168.150.246\applications\dataset_tables_2021\оставшиеся\d1a77b3a761f63c22c1d582f2d97d183.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1584</width>
+		<height>1224</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nolines</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>81</xmin>
+			<ymin>124</ymin>
+			<xmax>1188</xmax>
+			<ymax>1020</ymax>
+		</bndbox>
+	</object>
+</annotation>
